@@ -1,1 +1,2 @@
 new name with rebase
+new message added to rebase 
